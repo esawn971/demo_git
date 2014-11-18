@@ -10,3 +10,4 @@ qui se passe bien
 :q
 essai
 Et amintenant on modifie depuis github
+mais aussi depuis ma machine locale
